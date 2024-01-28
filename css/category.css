@@ -1,0 +1,61 @@
+.navbar ul {
+    list-style: none;
+    overflow: hidden;
+    background-color: rgb(197, 195, 195);
+    padding: 0px;
+    margin:0px;
+    width:1500px;
+}
+.navbar  a{
+    color:white;
+    text-decoration: none;
+    padding:15px;
+    margin-left:50px;
+    display:block;
+    text-align: center;
+}
+.navbar  a:hover{
+    background-color: black;
+}
+.booklogo .logo{
+    width:150px;
+    height:150px;
+    border-radius: 700px;
+    margin-left: 10px;
+}
+.f{
+    display:flex;
+    padding:10px;
+}
+
+.f .search input{
+    margin-left: 1px;
+    width:890px;
+    height:45px;
+    border:2px solid black;
+    background-color: rgba(244, 241, 236, 0.817);
+    border-radius: 50px;
+    margin-top:35px;
+    margin-left: 100px;
+   
+}
+.f .search input::placeholder{
+   width:100px;
+   font-size: 16px;
+}
+.navbar li{
+    float:left;
+}
+.category{
+    display:flex;
+}
+.category li{
+   list-style: none;
+   width:250px;
+   margin-top:100px;
+   margin-left:100px;
+   font-size: 24px;
+}
+.category a{
+    text-decoration: none;
+}
