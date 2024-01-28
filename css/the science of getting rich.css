@@ -1,0 +1,77 @@
+.navbar ul {
+    list-style: none;
+    overflow: hidden;
+    background-color: rgb(197, 195, 195);
+    padding: 0px;
+    margin:0px;
+    width:1500px;
+}
+.navbar  a{
+    color:white;
+    text-decoration: none;
+    padding:15px;
+    margin-left:50px;
+    display:block;
+    text-align: center;
+}
+.navbar  a:hover{
+    background-color: black;
+}
+.navbar li{
+    float:left;
+}
+.the_science_of_getting_rich{
+    display:flex;
+}
+
+.the_science_of_getting_rich img{
+    width:250px;
+    height:350px;
+    margin-top:50px;
+    margin-left:30px;
+    
+}
+.the_science_of_getting_rich h2{
+    margin-top:50px;
+    margin-left:30px;
+    opacity:.7;
+}
+.the_science_of_getting_rich .bookworms{
+    margin-top:80px;
+    margin-left: -290px;
+}
+.the_science_of_getting_rich .para{
+    width:300px;
+    margin-top:150px;
+    margin-left:-100px;
+    line-height:2;
+}
+.the_science_of_getting_rich .para1{
+    padding:5px;
+    margin-top:380px;
+    margin-left:15px;
+    border:1px solid black;
+    background-color: black;
+    color:white;
+    opacity: .7;
+}
+.details{
+    border:1px solid black;
+    opacity:.7;
+    width:1000px;
+    height:1700px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.details .p{
+    margin-left:50px;
+    margin-top:30px;
+}
+.details h3{
+    margin-left:50px;
+    margin-top:50px;
+}
+.details p{
+    margin-left:50px;
+    margin-top:30px;
+}
