@@ -1,7 +1,7 @@
 .navbar ul {
     list-style: none;
     overflow: hidden;
-    background-color: rgb(197, 195, 195);
+    background-color: #ADA8BE;
     padding: 0px;
     margin:0px;
     width:1500px;
@@ -53,7 +53,7 @@
    font-size: 16px;
 }
 .login{
-    border:2px solid rgba(85, 85, 85, 0.712);
+    border:1px solid rgba(85, 85, 85, 0.712);
     width:350px;
     height:350px;
     margin-top:50px;
@@ -67,7 +67,7 @@
    
 }
 .login .email input{
-    border:2px solid rgba(85, 85, 85, 0.712);
+    border:1px solid rgba(85, 85, 85, 0.712);
     border-radius:50px;
 }
 .login .email ::placeholder{
@@ -82,7 +82,7 @@
     height:40px;
 }
 .login .password input{
-    border:2px solid rgba(85, 85, 85, 0.712);
+    border:1px solid rgba(85, 85, 85, 0.712);
     border-radius: 50px;
 }
 .login .password ::placeholder{
@@ -108,11 +108,11 @@
 .login .loginbutton{
     margin-top:20px;
     margin-left:100px;
-    border:3px solid whitesmoke;
+    border:1px solid rgba(85, 85, 85, 0.712);
     width:100px;
     border-radius:70px;
-    background-color:rgba(85, 85, 85, 0.712);
-    color:white;   
+    
+     
 }
 .login .loginbutton p{
     text-align: center;
@@ -124,7 +124,7 @@
     display:flex;
     background-color: black;
     margin-top:200px;
-    opacity:.5;
+    opacity:.7;
 
 }
 .footer .b1 .b2{

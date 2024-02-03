@@ -1,0 +1,145 @@
+.navbar ul {
+    list-style: none;
+    overflow: hidden;
+    background-color: #ADA8BE;
+    padding: 0px;
+    margin:0px;
+    width:1500px;
+}
+.navbar  a{
+    color:white;
+    text-decoration: none;
+    padding:15px;
+    margin-left:50px;
+    display:block;
+    text-align: center;
+}
+.navbar  a:hover{
+    background-color: black;
+}
+.navbar li{
+    float:left;
+}
+.trending{
+    text-align: center;
+    padding:15px;
+    margin-top: 100px;
+    
+}
+.container{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap:10px;
+    row-gap: 10px;
+}
+.container .bb1 a{
+    text-decoration: none;
+    color:black;
+}
+.container .bb1{
+    font-size: 16px;
+}
+.container .bb2 a{
+    text-decoration: none;
+    color:black;
+}
+.container .bb2{
+    font-size: 16px;
+}.container .bb3 a{
+    text-decoration: none;
+    color:black;
+}
+.container .bb3{
+    font-size: 16px;
+}.container .bb4 a{
+    text-decoration: none;
+    color:black;
+}
+.container .bb4{
+    font-size: 16px;
+}.container .bb5 a{
+    text-decoration: none;
+    color:black;
+}
+.container .bb5{
+    font-size: 16px;
+}.container .bb6 a{
+    text-decoration: none;
+    color:black;
+}
+.container .bb6{
+ 
+    font-size: 16px;
+}
+.container .bb1 img{
+    border:2px solid whitesmoke;
+    background-color: whitesmoke;
+    padding:20px;
+    width:200px;
+    height:200px;
+    margin-left:95px;
+    margin-top: 20px;
+}
+.container .bb2 img{
+    border:2px solid whitesmoke;
+    background-color: whitesmoke;
+    padding:20px;
+    width:200px;
+    height:200px;
+    margin-left:95px;
+    margin-top: 20px;
+}
+.container .bb3 img{
+    border:2px solid whitesmoke;
+    background-color: whitesmoke;
+    padding:20px;
+    width:200px;
+    height:200px;
+    margin-left:95px;
+    margin-top: 20px;
+}
+.container .bb4 img{
+    border:2px solid whitesmoke;
+    background-color: whitesmoke;
+    padding:20px;
+    width:200px;
+    height:200px;
+    margin-left:95px;
+    margin-top: 20px;
+}
+.container .bb5 img{
+    border:2px solid whitesmoke;
+    background-color: whitesmoke;
+    padding:20px;
+    width:200px;
+    height:200px;
+    margin-left:95px;
+    margin-top: 20px;
+}
+.container .bb6 img{
+    border:2px solid whitesmoke;
+    background-color: whitesmoke;
+    padding:20px;
+    width:200px;
+    height:200px;
+    margin-left:95px;
+    margin-top: 20px;
+}
+.container .bb1 p{
+    text-align: center;
+}
+.container .bb2 p{
+    text-align: center;
+}
+.container .bb3 p{
+    text-align: center;
+}
+.container .bb4 p{
+    text-align: center;
+}
+.container .bb5 p{
+    text-align: center;
+}
+.container .bb6 p{
+    text-align: center;
+}

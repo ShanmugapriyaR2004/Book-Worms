@@ -2,7 +2,7 @@
 .navbar ul {
     list-style: none;
     overflow: hidden;
-    background-color: rgb(197, 195, 195);
+    background-color: #ADA8BE;
     padding: 0px;
     margin:0px;
     width:1500px;
@@ -17,17 +17,20 @@
 }
 .navbar  a:hover{
     background-color: black;
+    opacity: .7;
 }
 .navbar li{
     float:left;
 }
 
 .bookimage .image{
-    width:1270px;
-    height:400px;
+    width:1260px;
+    height:500px;
     padding:0px;
     margin-top:0px;
     margin-left:0px;
+    filter: blur(2px);
+    
 }
 .booklogo .logo{
     width:150px;
@@ -35,13 +38,32 @@
     border-radius: 700px;
     margin-top: 50px;
     margin-left: 10px;
+    border:2px solid black;
+    box-shadow: 0 0 100px #003B36;
 }
-.f{
+.bookimage .f{
     display:flex;
 }
+.bookimage .f .booklogo{
+    position: absolute;
+    top: 20%;
+    left:5%;
+    width:150px;
+    height:150px;
+    border-radius: 700px;
+    margin-top: 50px;
+    margin-left: 10px;
 
-.f .search input{
-    margin-top: 2px;
+   
+  }
+.bookimage .f  .search input{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:100px;
+   font-size: 16px;
+   margin-top: 2px;
     margin-left: 1px;
     width:890px;
     height:45px;
@@ -50,9 +72,9 @@
     border-radius: 50px;
     margin-top: 100px;
     margin-left: 100px;
-   
-}
-.f .search input::placeholder{
+    box-shadow: 0 0 100px #F5F3F5;
+  }
+.bookimage.f .search input::placeholder{
    width:100px;
    font-size: 16px;
 }
@@ -452,7 +474,7 @@
     display:flex;
     background-color: black;
     margin-top:200px;
-    opacity:.5;
+    opacity:.7;
 
 }
 .footer .b1 .b2{

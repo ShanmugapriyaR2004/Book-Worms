@@ -1,0 +1,145 @@
+.navbar ul {
+    list-style: none;
+    overflow: hidden;
+    background-color: #ADA8BE;
+    padding: 0px;
+    margin:0px;
+    width:1500px;
+}
+.navbar  a{
+    color:white;
+    text-decoration: none;
+    padding:15px;
+    margin-left:50px;
+    display:block;
+    text-align: center;
+}
+.navbar  a:hover{
+    background-color: black;
+}
+.navbar li{
+    float:left;
+}
+.insurance{
+    text-align: center;
+    padding:15px;
+    margin-top: 100px;
+    
+}
+.container4{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap:10px;
+    row-gap: 10px;
+}
+.container4 .gbb1 a{
+    text-decoration: none;
+    color:black;
+}
+.container4 .gbb1{
+    font-size: 16px;
+}
+.container4 .gbb2 a{
+    text-decoration: none;
+    color:black;
+}
+.container4 .gbb2{
+    font-size: 16px;
+}.container4 .gbb3 a{
+    text-decoration: none;
+    color:black;
+}
+.container4 .gbb3{
+    font-size: 16px;
+}.container4 .gbb4 a{
+    text-decoration: none;
+    color:black;
+}
+.container4 .gbb4{
+    font-size: 16px;
+}.container4 .gbb5 a{
+    text-decoration: none;
+    color:black;
+}
+.container4 .gbb5{
+    font-size: 16px;
+}.container4 .gbb6 a{
+    text-decoration: none;
+    color:black;
+}
+.container4 .gbb6{
+ 
+    font-size: 16px;
+}
+.container4 .gbb1 img{
+    border:2px solid whitesmoke;
+    background-color: whitesmoke;
+    padding:20px;
+    width:200px;
+    height:200px;
+    margin-left:95px;
+    margin-top: 20px;
+}
+.container4 .gbb2 img{
+    border:2px solid whitesmoke;
+    background-color: whitesmoke;
+    padding:20px;
+    width:200px;
+    height:200px;
+    margin-left:95px;
+    margin-top: 20px;
+}
+.container4 .gbb3 img{
+    border:2px solid whitesmoke;
+    background-color: whitesmoke;
+    padding:20px;
+    width:200px;
+    height:200px;
+    margin-left:95px;
+    margin-top: 20px;
+}
+.container4 .gbb4 img{
+    border:2px solid whitesmoke;
+    background-color: whitesmoke;
+    padding:20px;
+    width:200px;
+    height:200px;
+    margin-left:95px;
+    margin-top: 20px;
+}
+.container4 .gbb5 img{
+    border:2px solid whitesmoke;
+    background-color: whitesmoke;
+    padding:20px;
+    width:200px;
+    height:200px;
+    margin-left:95px;
+    margin-top: 20px;
+}
+.container4 .gbb6 img{
+    border:2px solid whitesmoke;
+    background-color: rgba(245, 245, 245);
+    padding:20px;
+    width:200px;
+    height:200px;
+    margin-left:95px;
+    margin-top: 20px;
+}
+.container4 .gbb1 p{
+    text-align: center;
+}
+.container4 .gbb2 p{
+    text-align: center;
+}
+.container4 .gbb3 p{
+    text-align: center;
+}
+.container4 .gbb4 p{
+    text-align: center;
+}
+.container4 .gbb5 p{
+    text-align: center;
+}
+.container4 .gbb6 p{
+    text-align: center;
+}
