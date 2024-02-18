@@ -3,4 +3,4 @@ Hi all in this basic project i've tried to create to create a static page of a b
 
 Hoping to further develop this project as a dynamic webpage with the help of javascript 
 
-https://voluble-buttercream-6748b4.netlify.app
+https://beamish-genie-5781f6.netlify.app
