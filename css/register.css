@@ -189,3 +189,102 @@
     margin-left:400px;
     padding-top:5px;
 }
+@media (max-width:801px){
+    .navbar ul {
+        list-style: none;
+        overflow: hidden;
+        background-color: #ADA8BE;
+        padding: 0px;
+        margin:0px;
+        width:100%;
+    }
+    .navbar  a{
+        color:white;
+        text-decoration: none;
+        padding:10px;
+        margin-left:22px;
+        display:block;
+        text-align: center;
+        height:25px;
+        font-size: 12px;
+    
+    }
+    .navbar  a:hover{
+        background-color: black;
+        opacity: .7;
+    }
+    .navbar li{
+        float:left;
+        text-align: center;
+        
+    }
+    .register{
+        border:1px solid rgba(85, 85, 85, 0.712);
+        width:350px;
+        height:400px;
+        margin-top:50px;
+        margin-left:50px;
+    }
+  
+    .heading{
+        text-align:center;
+        margin-top:50px;
+        font-size: 24px;
+    }
+    .footer{
+        width:801px;
+        height:200px;
+        border:2px solid black;
+        display:flex;
+        background-color: black;
+        margin-top:200px;
+        opacity:.7;
+    
+    }
+    .footer .b1 .b2{
+        width:120px;
+        margin-top:30px;
+        margin-left:70px;
+        color:white;
+        font-size: 14px;
+    }
+    .footer .b1 p{
+        border:2px solid box;
+        width:150px;
+        margin-top:10px;
+        margin-left:70px;
+        color:white;
+        line-height: 2;
+        font-size: 12px;
+    }
+    .footer .b3 .b4{
+        margin-top:30px;
+        margin-left:70px;
+        color:white;
+        width:100%;
+    }
+    .footer .b3 .logos{
+        margin-left:70px;
+        margin-top:30px;
+        width:100%;
+    }
+    .footer .b3 .logos i{
+        width:30px;
+        height:30px;
+        border:2px solid black;
+        padding-left: 15px;
+        padding-top:10px;
+        border-radius: 80px;
+        background-color: whitesmoke;
+    }
+    .footer .b3 .logos i:hover{
+        background-color:rgb(197, 195, 195);
+    }
+    .footer .b3 p{
+        color:white;
+        margin-left:55px;
+        padding-top:5px;
+        width:100%;
+        font-size: 16px;
+    }
+}

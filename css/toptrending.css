@@ -1,25 +1,4 @@
-.navbar ul {
-    list-style: none;
-    overflow: hidden;
-    background-color: #ADA8BE;
-    padding: 0px;
-    margin:0px;
-    width:1500px;
-}
-.navbar  a{
-    color:white;
-    text-decoration: none;
-    padding:15px;
-    margin-left:50px;
-    display:block;
-    text-align: center;
-}
-.navbar  a:hover{
-    background-color: black;
-}
-.navbar li{
-    float:left;
-}
+
 .trending{
     text-align: center;
     padding:15px;
